@@ -5,7 +5,7 @@ MIDI Command Studio is a Windows utility for mapping MIDI input to shortcuts, ma
 ## Quick Links
 
 - [README](../README.md)
-- [Common Workflows](common-workflows.md)
+- [Features And Examples](features-and-examples.md)
 - [Troubleshooting](troubleshooting.md)
 - [FAQ](faq.md)
 - [Download](https://crowtherian.gumroad.com/l/ddscqt)
@@ -58,6 +58,6 @@ For Windows input volume, the mapping controls the Windows recording input level
 
 ## Next Steps
 
-- Build a volume workflow: [Common Workflows](common-workflows.md)
+- Review volume features and examples: [Features And Examples](features-and-examples.md)
 - Confirm controller message behavior: [Controllers and MIDI Messages](controllers-and-midi-messages.md)
 - Solve setup issues: [Troubleshooting](troubleshooting.md)

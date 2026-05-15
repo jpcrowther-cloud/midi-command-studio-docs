@@ -1,6 +1,6 @@
-# Common Workflows
+# Features And Examples
 
-This page summarizes common ways to use MIDI Command Studio.
+This page summarizes key MIDI Command Studio features and practical examples.
 
 For setup instructions, see [Getting Started](getting-started.md).
 
