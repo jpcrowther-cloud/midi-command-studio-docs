@@ -46,6 +46,7 @@ Typical uses include:
 - Musicians who want to reuse MIDI hardware outside a DAW
 - Power users building MIDI controller macros for Windows workflows
 - Users looking for a Stream Deck alternative using MIDI hardware they already own
+- Anyone who wants to get more practical use from a MIDI controller, keyboard, or control surface
 
 ## Core Capabilities
 
