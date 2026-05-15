@@ -1,6 +1,6 @@
 # Getting Started
 
-MIDI Command Studio is a Windows utility for mapping MIDI input to shortcuts, macros, volume controls, soundboard actions, and app-focused workflows.
+MIDI Command Studio is a Windows utility for mapping MIDI input to shortcuts, macros, output and input volume controls, soundboard actions, and app-focused workflows.
 
 ## Quick Links
 
@@ -32,7 +32,7 @@ MIDI Command Studio is a Windows utility for mapping MIDI input to shortcuts, ma
 Start with a small preset before building a larger setup:
 
 - One button or pad mapped to a basic Windows shortcut
-- One knob or fader mapped to volume behavior
+- One knob or fader mapped to output or input volume behavior
 - One application-focused mapping for a target app such as a browser, editor, streaming tool, chat app, or audio utility
 - One preset switch test if you plan to use different layouts for different workflows
 

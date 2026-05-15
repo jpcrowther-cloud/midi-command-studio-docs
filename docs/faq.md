@@ -18,7 +18,11 @@ No. MIDI Command Studio is a standalone Windows utility. It is not a VST, instru
 
 ## What can I control with it?
 
-The app is designed for workflows such as Windows shortcuts, macros, app volume control, system volume control, soundboard actions, preset switching, and app-focused shortcuts. Example target applications can include OBS, DaVinci Resolve, browsers, chat tools, editors, media players, and audio utilities.
+The app is designed for workflows such as Windows shortcuts, macros, app volume control, system volume control, Windows input volume control for microphones and other recording devices, soundboard actions, preset switching, and app-focused shortcuts. Example target applications can include OBS, DaVinci Resolve, browsers, chat tools, editors, media players, and audio utilities.
+
+## Does MIDI Thru require anything extra?
+
+Yes. MIDI Thru requires a virtual MIDI port.
 
 ## Does it work on macOS or Linux?
 

@@ -30,13 +30,13 @@ Support details should be documented against verified releases, but the common m
 - Encoder-generated CC data
 - Velocity-sensitive pad input where applicable
 - Feedback messages for supported devices and workflows
-- MIDI Thru routing where configured
+- MIDI Thru routing where configured; this requires a virtual MIDI port
 
 ## Mapping Examples
 
 - A pad sends a note message that triggers a Windows shortcut
 - A knob sends CC data that controls volume or an adjustment workflow
-- A fader is assigned to system volume or app-targeted volume control
+- A fader is assigned to system volume, app-targeted volume, or Windows input volume control
 - Buttons are mapped to macros, preset switching, or application-specific commands
 - Supported feedback-capable devices receive visual, LCD, or fader feedback where configured
 

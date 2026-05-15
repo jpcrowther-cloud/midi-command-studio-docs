@@ -32,12 +32,13 @@ This page covers common setup checks for MIDI controller shortcuts, macros, volu
 - Check whether the shortcut is already captured by another application
 - Verify the active preset is the one you expect
 
-## App Volume Control Does Not Affect The Expected Application
+## Volume Control Does Not Affect The Expected Target
 
 - Confirm the target application is running and producing audio
 - Check whether the app appears in the Windows volume mixer
 - Verify the mapping targets the intended app
 - Test system volume separately to isolate app-specific behavior
+- For microphone or recording-device input volume, confirm the intended input device is selected and visible in Windows sound settings
 
 ## MIDI Feedback Or X-Touch Feedback Does Not Update
 

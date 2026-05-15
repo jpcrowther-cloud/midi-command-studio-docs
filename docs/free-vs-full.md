@@ -23,7 +23,7 @@ This page documents the public differences between the free version and the full
 | --- | --- | --- |
 | Shortcut mapping for knobs, faders, and buttons | Yes | Yes |
 | Macro mapping for knobs, faders, and buttons | Yes | Yes |
-| App or system volume mapping | Yes | Yes |
+| App, system, or Windows input volume mapping | Yes | Yes |
 | Per-device presets and quick switching | Yes | Yes |
 | App targeting | Yes | Yes |
 | LED feedback | Yes | Yes |

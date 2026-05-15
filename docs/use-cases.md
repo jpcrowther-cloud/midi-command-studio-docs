@@ -26,6 +26,7 @@ MIDI Command Studio is intended for Windows workflows where physical MIDI contro
 - Control Windows volume with a MIDI controller
 - Create MIDI app volume control with faders or knobs
 - Use system volume control for monitor, speaker, or headphone workflows
+- Control Windows input volume for microphones and other recording devices
 - Assign mute, utility, or preset actions to physical controls where supported
 
 ## Productivity And Power Users

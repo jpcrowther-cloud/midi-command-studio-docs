@@ -49,9 +49,9 @@ Common examples:
 
 Example target applications can include shortcut-driven editing, review, playback, and production tools.
 
-## MIDI App Volume Control
+## MIDI Volume Control
 
-Faders and knobs can be used for volume workflows, including system volume and app-targeted volume control where supported by the current release.
+Faders and knobs can be used for volume workflows, including system output volume, app-targeted volume control, and Windows input volume control for microphones or other recording devices where supported by the current release.
 
 Common examples:
 
@@ -60,6 +60,7 @@ Common examples:
 - Voice chat volume
 - Streaming or recording software volume
 - System output volume
+- Microphone or recording-device input volume
 
 Add a volume-control GIF here once a current public build is available for capture.
 
@@ -83,3 +84,7 @@ For supported devices, MIDI feedback can keep hardware state aligned with the ac
 Document exact device behavior only after testing a specific model and version.
 
 Add an X-Touch feedback demo here once model-specific behavior has been verified.
+
+## MIDI Thru
+
+MIDI Thru can route MIDI onward to another MIDI destination. This requires a virtual MIDI port.

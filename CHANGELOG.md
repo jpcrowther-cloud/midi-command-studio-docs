@@ -12,11 +12,11 @@ Current documented public version.
 
 - Shortcut mapping for knobs, faders, and buttons
 - Macro mapping for knobs, faders, and buttons
-- App or system volume mapping
+- App, system, or Windows input volume mapping
 - Per-device presets and quick switching
 - App targeting
 - LED feedback
-- MIDI Thru with a virtual MIDI port
+- MIDI Thru, requiring a virtual MIDI port
 - Mackie / MCU support
 
 ### Full Version

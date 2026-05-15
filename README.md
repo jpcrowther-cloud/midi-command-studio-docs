@@ -19,7 +19,7 @@ This repository is for **documentation, release notes, screenshots, download lin
 | Platform | Windows only |
 | Product type | Standalone desktop application |
 | Typical hardware | MIDI keyboards, pad controllers, faders, knobs, encoders, control surfaces |
-| Common workflows | Windows shortcuts, macros, app volume control, system volume, soundboard actions, and app-focused presets |
+| Common workflows | Windows shortcuts, macros, app volume control, Windows input volume control, system volume, soundboard actions, and app-focused presets |
 | Repository scope | Documentation, releases, screenshots, external links, and issue tracking |
 | Source code | Closed-source application; no app source code in this repository |
 | Download | [Free download / Gumroad](https://crowtherian.gumroad.com/l/ddscqt) |
@@ -32,7 +32,7 @@ Typical uses include:
 
 - Triggering Windows shortcuts from MIDI pads, keys, buttons, or encoders
 - Running macros from MIDI controls
-- Controlling system volume or app-targeted volume from faders and knobs
+- Controlling system volume, app-targeted volume, or Windows input volume from faders and knobs
 - Building app-focused MIDI controller workflows for creative, streaming, editing, and utility software
 - Triggering repeated shortcuts in target applications such as OBS, DaVinci Resolve, browsers, chat apps, editors, and audio tools
 - Using soundboard actions from pads or buttons
@@ -55,11 +55,12 @@ Typical uses include:
 - Global or app-focused mappings
 - System volume control
 - App-targeted volume control
+- Windows input volume control for microphones and other recording devices
 - Soundboard support
 - MIDI feedback for supported devices
 - X-Touch integration, including LCD and fader feedback where supported
 - Encoder modifiers
-- MIDI Thru
+- MIDI Thru, requiring a virtual MIDI port
 - Multiple device support
 
 ## Not A DAW Plugin
