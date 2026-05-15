@@ -52,11 +52,6 @@ Common examples:
 - Voice chat volume
 - Microphone or recording-device input volume
 
-Useful features:
-
-- `System` volume mappings
-- `App Target` volume mappings
-- Windows input volume mappings
 - Optional mute controls where supported
 
 ## Multi-Step Macros
