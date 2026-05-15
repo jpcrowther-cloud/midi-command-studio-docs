@@ -1,54 +1,30 @@
 # Changelog
 
-This changelog tracks public documentation updates and may also mirror user-facing release notes for MIDI Command Studio.
+This changelog tracks public MIDI Command Studio release notes.
 
-MIDI Command Studio is a closed-source Windows application. This repository is for documentation, releases, screenshots, download links, and issue tracking; it does not contain application source code.
+The application is closed-source. This repository contains documentation, release notes, screenshots, download links, and issue-tracking guidance.
 
-## Version 1.2.0
+## 1.2.0
 
-Current documented public version.
+- Current public version.
+- Installer: `MidiCommandStudio_Setup_1.2.0.exe`
+- Publisher: Meltopia
+- Platform: Windows 10/11
+- Download: [Official download page](https://midicommandstudio.com/download.html)
 
-### Available In Free And Full
+### Highlights
 
-- Shortcut mapping for knobs, faders, and buttons
-- Macro mapping for knobs, faders, and buttons
-- App, system, or Windows input volume mapping
-- Per-device presets and quick switching
-- App targeting
-- LED feedback
-- MIDI Thru, requiring a virtual MIDI port
-- Mackie / MCU support
+- Added encoder-based volume control for system, app, and input volume.
+- Added adjustable encoder volume step size.
+- Improved encoder learning for speed-sensitive hardware.
+- Improved app-volume mapping workflow by focusing the app selector automatically when app volume is chosen.
+- Added tooltip help for `On` and `Off` actions in the Note and CC Button editors.
+- Added preset cycling so one controller button can step through a chosen list of presets for a device.
+- Added in-app update checking with installer download flow and download-page fallback.
+- Improved preset-switch conflict handling across saved presets for the same device.
+- Improved Mackie / MCU support, including feedback behavior and setup flow for compatible devices.
+- Added overlay display for triggered mappings/actions with a settings toggle.
 
-### Full Version
+## Edition Notes
 
-- Simple audio sample playback
-- Multiple active devices at the same time
-- Unlimited presets per device
-- Unlimited mappings per preset
-
-### Free Version Limits
-
-- 1 active device at a time
-- Up to 2 presets per device
-- Up to 6 mappings per preset
-
-## Documentation Updates
-
-- Expanded README structure for first-time visitors
-- Added clearer documentation navigation
-- Added sections for screenshots, GIFs, demos, reviews, listings, and external articles
-- Added data and privacy notes based on public help documentation
-- Added support, external resources, roadmap, and issue template scaffolding
-- Standardized wording around Windows-only support and closed-source distribution
-
-## Release Note Maintenance
-
-For future public releases, include:
-
-- Version number
-- Release date when available
-- Official download location
-- Installer or distribution channel
-- Windows support notes when verified
-- Added, improved, and fixed items
-- Known issues or migration notes when relevant
+Free and full version differences are documented in [Free vs Full](docs/free-vs-full.md).
