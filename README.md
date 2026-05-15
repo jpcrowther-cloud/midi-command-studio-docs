@@ -32,6 +32,7 @@ Typical uses include:
 
 - Triggering Windows shortcuts from MIDI pads, keys, buttons, or encoders
 - Running macros from MIDI controls
+- Typing text, sending mouse actions, running programs, or opening files from macro steps
 - Controlling system volume, app-targeted volume, or Windows input volume from faders and knobs
 - Building app-focused MIDI controller workflows for creative, streaming, editing, and utility software
 - Triggering repeated shortcuts in target applications such as OBS, DaVinci Resolve, browsers, chat apps, editors, and audio tools
@@ -49,10 +50,13 @@ Typical uses include:
 ## Core Capabilities
 
 - Dedicated learn buttons for buttons, faders, knobs, and encoders
+- Device-specific presets with autosave
 - Preset switching to change configured layouts instantly from the controller itself
 - Windows shortcut triggering
 - Macro execution
+- Text input, mouse action, run program, and open file macro steps
 - Global or app-focused mappings
+- Assignment Check Mode for checking mapped controls without triggering actions
 - System volume control
 - App-targeted volume control
 - Windows input volume control for microphones and other recording devices
@@ -60,7 +64,7 @@ Typical uses include:
 - MIDI feedback for supported devices
 - X-Touch integration, including LCD and fader feedback where supported
 - Encoder modifiers
-- MIDI Thru, requiring a virtual MIDI port
+- MIDI Thru for unmapped MIDI messages, requiring a virtual MIDI port
 - Multiple device support
 
 ## Not A DAW Plugin
@@ -89,6 +93,7 @@ See [Getting Started](docs/getting-started.md) for setup details and first-test 
 - [FAQ](docs/faq.md)
 - [Troubleshooting](docs/troubleshooting.md)
 - [External Resources](docs/external-resources.md)
+- [Data And Privacy](docs/data-and-privacy.md)
 - [Release Notes](CHANGELOG.md)
 - [Support](SUPPORT.md)
 - [Contributing To Documentation](CONTRIBUTING.md)

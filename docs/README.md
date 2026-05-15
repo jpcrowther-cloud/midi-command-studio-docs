@@ -11,6 +11,7 @@ The application is closed-source. These pages document usage, release informatio
 - [Supported Use Cases](use-cases.md): practical workflows by audience and task
 - [Troubleshooting](troubleshooting.md): setup and mapping checks
 - [FAQ](faq.md): common product and repository questions
+- [Data And Privacy](data-and-privacy.md): local data, logs, licensing requests, and feedback reports
 
 ## Reference
 

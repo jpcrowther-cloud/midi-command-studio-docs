@@ -24,6 +24,22 @@ The app is designed for workflows such as Windows shortcuts, macros, app volume 
 
 Yes. MIDI Thru requires a virtual MIDI port.
 
+## Does MIDI Command Studio save presets automatically?
+
+Yes. Presets are autosaved as you edit mappings and macros.
+
+## Where are presets stored?
+
+Presets are stored locally under:
+
+```text
+%LOCALAPPDATA%\MIDI Command Studio\presets
+```
+
+## Does activation require internet access?
+
+Yes. Activation requires an internet connection. A license allows up to 2 activations.
+
 ## Does it work on macOS or Linux?
 
 MIDI Command Studio is documented here as Windows-only.

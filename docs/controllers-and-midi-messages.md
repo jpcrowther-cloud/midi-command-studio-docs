@@ -32,6 +32,10 @@ Support details should be documented against verified releases, but the common m
 - Feedback messages for supported devices and workflows
 - MIDI Thru routing where configured; this requires a virtual MIDI port
 
+MIDI Command Studio works with controllers that send standard MIDI note and CC data. Some devices also support Mackie / MCU-style feedback for LCD screens or motorized faders.
+
+HUI is not currently supported. MMC transport data is only minimally supported; simple commands such as play/stop, and sometimes record, may be usable depending on how the device is configured.
+
 ## Mapping Examples
 
 - A pad sends a note message that triggers a Windows shortcut
@@ -43,6 +47,8 @@ Support details should be documented against verified releases, but the common m
 ## X-Touch Notes
 
 MIDI Command Studio includes X-Touch integration, including LCD and fader feedback where supported. Document exact model behavior only after testing a specific device and app version.
+
+For Behringer X-Touch One workflows, Native mode expects the hardware to be in MIDI mode. MCU mode expects an MCU-compatible hardware mode.
 
 ## When Adding Device Notes
 

@@ -64,6 +64,24 @@ Common examples:
 
 Add a volume-control GIF here once a current public build is available for capture.
 
+## Macros
+
+Macros let a single MIDI control run more than one action. They are useful when a shortcut alone is not enough.
+
+Common macro step types include:
+
+- Keyboard shortcuts
+- Run program or open file
+- Mouse click, move, or scroll
+- Text input
+- Wait or delay between actions
+
+Macro steps run in order when the mapped control is triggered.
+
+## Soundboard And Audio Sample Playback
+
+The full version supports simple audio sample playback. Audio mappings can trigger samples, stop playback quickly, and control the overall sample playback level from a MIDI control.
+
 ## Preset Switching
 
 Preset switching lets one MIDI controller serve different roles depending on the current task or application.
@@ -77,6 +95,14 @@ Common examples:
 
 Add a preset-switching GIF here once a current public build is available for capture.
 
+Presets are device-specific and autosaved as you edit mappings and macros. Switching presets changes which controls are active, which apps shortcuts target, which macros run, and how faders or encoders behave.
+
+## Assignment Check Mode
+
+Assignment Check Mode lets you press controls on the selected device and see what they are assigned to without sending the mapped shortcuts, macros, or volume actions.
+
+Use it when you have already built a preset and want to confirm which pads, buttons, knobs, faders, or encoders are mapped.
+
 ## MIDI Feedback And X-Touch Workflows
 
 For supported devices, MIDI feedback can keep hardware state aligned with the active preset or action state. X-Touch integration can include LCD and fader feedback where supported.
@@ -88,3 +114,5 @@ Add an X-Touch feedback demo here once model-specific behavior has been verified
 ## MIDI Thru
 
 MIDI Thru can route MIDI onward to another MIDI destination. This requires a virtual MIDI port.
+
+When MIDI Thru is enabled, mapped controls still trigger their assigned actions. Unmapped MIDI messages are sent to the virtual MIDI Thru port, which is useful when part of a keyboard or controller should still feed another MIDI application.

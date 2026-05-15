@@ -15,6 +15,7 @@ This page covers common setup checks for MIDI controller shortcuts, macros, volu
 - Confirm the controller is connected and powered
 - Confirm Windows can see the device
 - Close other MIDI or DAW applications that may have opened the same device
+- Start MIDI Command Studio before DAWs or other MIDI-heavy applications if a device is being grabbed by another program
 - Reconnect the device and restart MIDI Command Studio
 - Check whether the controller exposes separate input and output ports
 
@@ -29,6 +30,7 @@ This page covers common setup checks for MIDI controller shortcuts, macros, volu
 
 - Test with a simple shortcut first
 - Confirm the target application has focus if the mapping is app-focused
+- For app targeting, confirm the target application is running and has an open window
 - Check whether the shortcut is already captured by another application
 - Verify the active preset is the one you expect
 
@@ -39,6 +41,21 @@ This page covers common setup checks for MIDI controller shortcuts, macros, volu
 - Verify the mapping targets the intended app
 - Test system volume separately to isolate app-specific behavior
 - For microphone or recording-device input volume, confirm the intended input device is selected and visible in Windows sound settings
+- Some ASIO, exclusive-mode, or vendor-specific audio paths can bypass Windows input volume and mute controls
+
+## Force Focus Does Not Bring The App Forward
+
+- Windows can sometimes block background apps from taking focus
+- Force focus works best when the target app has been used recently
+- Keep the target app open and not minimized for the most predictable behavior
+- App-target volume mappings do not need focus when using normal app-volume targeting
+
+## MIDI Thru Port Is Missing
+
+- Create a virtual MIDI port before using MIDI Thru
+- The expected port name is `MCS MIDI Thru`
+- Keep the virtual MIDI tool running in the background
+- If the port was created after MIDI Command Studio opened, use `Rescan` in the Devices menu or restart the app
 
 ## MIDI Feedback Or X-Touch Feedback Does Not Update
 

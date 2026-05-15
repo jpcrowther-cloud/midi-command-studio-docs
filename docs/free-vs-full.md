@@ -43,3 +43,5 @@ This page documents the public differences between the free version and the full
 ## Licensing And Upgrade Details
 
 Download, purchase, license, and upgrade details are maintained on the [official download page](https://crowtherian.gumroad.com/l/ddscqt).
+
+Activation requires an internet connection. A license allows up to 2 activations.
