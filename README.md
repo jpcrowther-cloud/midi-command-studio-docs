@@ -110,12 +110,12 @@ No screenshots or demo videos are linked in this repository yet. Add only curren
 - Download: [midicommandstudio.com/download.html](https://midicommandstudio.com/download.html)
 - Current public version: `1.2.0`
 - Version history: [CHANGELOG.md](CHANGELOG.md)
-- GitHub Releases: use this repository's Releases page if public release entries are enabled
+- GitHub Releases: use this repository's Releases page for public version notes if release entries are enabled
 
 Suggested release structure:
 
-- Use GitHub Releases for public version notes, known issues, and download links
-- Keep binary downloads linked through the official website unless distribution policy changes
+- Use GitHub Releases for public version notes and known issues
+- Keep downloads linked through the official website unless distribution policy changes
 - Mirror user-facing release notes in [CHANGELOG.md](CHANGELOG.md)
 - Include exact version numbers, dates, and Windows compatibility notes when verified
 

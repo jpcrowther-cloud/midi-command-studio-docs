@@ -8,7 +8,7 @@ assignees: ""
 
 ## Resource Type
 
-Softpedia review / KVR listing / Rekkerd article / YouTube demo / other
+Review / listing / article / other
 
 ## Link
 
