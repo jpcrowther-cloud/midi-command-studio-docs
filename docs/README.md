@@ -7,7 +7,6 @@ The application is closed-source. These pages document usage, release informatio
 ## Start Here
 
 - [Getting Started](getting-started.md): first setup, learn buttons, and first preset
-- [Features And Examples](features-and-examples.md): shortcuts, app-focused controls, volume control, preset switching, and MIDI feedback
 - [Supported Use Cases](use-cases.md): practical workflows by audience and task
 - [Troubleshooting](troubleshooting.md): setup and mapping checks
 - [FAQ](faq.md): common product and repository questions

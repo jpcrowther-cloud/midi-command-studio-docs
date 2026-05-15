@@ -6,7 +6,6 @@ MIDI Command Studio is designed for Windows users who want to use MIDI hardware 
 
 - [README](../README.md)
 - [Getting Started](getting-started.md)
-- [Features And Examples](features-and-examples.md)
 - [Troubleshooting](troubleshooting.md)
 
 ## Controller Types

@@ -5,7 +5,6 @@ MIDI Command Studio is intended for Windows workflows where physical MIDI contro
 ## Quick Links
 
 - [README](../README.md)
-- [Features And Examples](features-and-examples.md)
 - [Controllers and MIDI Messages](controllers-and-midi-messages.md)
 - [FAQ](faq.md)
 
