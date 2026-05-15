@@ -3,7 +3,7 @@
 **Control Windows with MIDI hardware: shortcuts, macros, volume, soundboard actions, and app-focused presets.**
 
 [Official Website](https://midicommandstudio.com)  
-[Free Download / Gumroad](https://crowtherian.gumroad.com/l/ddscqt)  
+[Download](https://midicommandstudio.com/download.html)  
 [Documentation Home](docs/README.md)  
 [Getting Started](docs/getting-started.md)  
 [Release Notes](CHANGELOG.md)
@@ -22,7 +22,7 @@ This repository is for **documentation, release notes, screenshots, download lin
 | Common workflows | Windows shortcuts, macros, app volume control, Windows input volume control, system volume, soundboard actions, and app-focused presets |
 | Repository scope | Documentation, releases, screenshots, external links, and issue tracking |
 | Source code | Closed-source application; no app source code in this repository |
-| Download | [Free download / Gumroad](https://crowtherian.gumroad.com/l/ddscqt) |
+| Download | [Official download page](https://midicommandstudio.com/download.html) |
 
 ## What It Does
 
@@ -74,7 +74,7 @@ MIDI Command Studio is a standalone Windows utility. It is not a VST, instrument
 
 ## Quick Start
 
-1. Download the current Windows build from the [official download page](https://crowtherian.gumroad.com/l/ddscqt).
+1. Download the current Windows build from the [official download page](https://midicommandstudio.com/download.html).
 2. Install and launch MIDI Command Studio.
 3. Add or select your MIDI device in the `Devices` panel.
 4. Click the learn button that matches the control type, such as button, fader/knob, or encoder/jogwheel.
@@ -107,7 +107,7 @@ No screenshots or demo videos are linked in this repository yet. Add only curren
 ## Downloads And Releases
 
 - Official website: [midicommandstudio.com](https://midicommandstudio.com)
-- Free download / Gumroad: [crowtherian.gumroad.com/l/ddscqt](https://crowtherian.gumroad.com/l/ddscqt)
+- Download: [midicommandstudio.com/download.html](https://midicommandstudio.com/download.html)
 - Current public version: `1.2.0`
 - Version history: [CHANGELOG.md](CHANGELOG.md)
 - GitHub Releases: use this repository's Releases page if public release entries are enabled
@@ -115,7 +115,7 @@ No screenshots or demo videos are linked in this repository yet. Add only curren
 Suggested release structure:
 
 - Use GitHub Releases for public version notes, known issues, and download links
-- Keep binary downloads on the official website or Gumroad unless distribution policy changes
+- Keep binary downloads linked through the official website unless distribution policy changes
 - Mirror user-facing release notes in [CHANGELOG.md](CHANGELOG.md)
 - Include exact version numbers, dates, and Windows compatibility notes when verified
 
@@ -129,7 +129,7 @@ See [External Resources](docs/external-resources.md) for the full reference list
 
 - Product support: [Contact page](https://midicommandstudio.com/contact.html)
 - Website: [midicommandstudio.com](https://midicommandstudio.com)
-- Download / purchase page: [Gumroad](https://crowtherian.gumroad.com/l/ddscqt)
+- Download / purchase page: [Download page](https://midicommandstudio.com/download.html)
 - Documentation issues: use this repository's issue tracker if enabled
 - Application bugs: use the [contact page](https://midicommandstudio.com/contact.html) or the app bug report template if issue tracking is enabled
 

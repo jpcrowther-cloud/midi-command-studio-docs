@@ -6,7 +6,7 @@ This page documents the public differences between the free version and the full
 
 - [README](../README.md)
 - [Getting Started](getting-started.md)
-- [Download](https://crowtherian.gumroad.com/l/ddscqt)
+- [Download](https://midicommandstudio.com/download.html)
 
 ## Summary
 
@@ -35,6 +35,6 @@ This page documents the public differences between the free version and the full
 
 ## Licensing And Upgrade Details
 
-Download, purchase, license, and upgrade details are maintained on the [official download page](https://crowtherian.gumroad.com/l/ddscqt).
+Download, purchase, license, and upgrade details are maintained on the [official download page](https://midicommandstudio.com/download.html).
 
 Activation requires an internet connection. A license allows up to 2 activations.
