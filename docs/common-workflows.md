@@ -11,7 +11,7 @@ This page describes practical workflows for using MIDI Command Studio as MIDI ma
 
 ## Windows Shortcuts From MIDI Controls
 
-Use MIDI learn to assign a pad, key, button, knob, fader, or encoder to a Windows shortcut or shortcut sequence.
+Use the matching learn button to assign a pad, key, button, knob, fader, encoder, or jogwheel to a Windows shortcut or shortcut sequence.
 
 Common examples:
 
