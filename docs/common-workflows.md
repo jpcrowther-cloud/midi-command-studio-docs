@@ -1,6 +1,6 @@
 # Common Workflows
 
-This page shows practical ways to use MIDI Command Studio after your device is connected and your first preset is ready.
+This page shows practical ways to use MIDI Command Studio.
 
 For the first setup path, see [Getting Started](getting-started.md).
 
