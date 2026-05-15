@@ -11,13 +11,13 @@ MIDI Command Studio is intended for Windows workflows where physical MIDI contro
 
 ## Streaming And Content Creation
 
-- Set up an OBS MIDI controller workflow for scene changes, mute actions, recording controls, or live production shortcuts
+- Set up app-focused MIDI controller workflows for scene changes, mute actions, recording controls, or live production shortcuts
 - Use pads or buttons for soundboard actions
 - Build app-focused controls for streaming, playback, chat, browser, and recording tools
 
 ## Video Editing
 
-- Use MIDI shortcuts for DaVinci Resolve or similar editing software
+- Use MIDI shortcuts for editing software and other shortcut-driven production tools
 - Assign pads, buttons, encoders, or faders to repeated editing actions
 - Build separate presets for editing, review, audio, and export workflows
 

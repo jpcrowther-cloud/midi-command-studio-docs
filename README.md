@@ -1,6 +1,6 @@
 # MIDI Command Studio
 
-**Control Windows with MIDI hardware: shortcuts, macros, volume, soundboard actions, OBS workflows, DaVinci Resolve shortcuts, and app-focused presets.**
+**Control Windows with MIDI hardware: shortcuts, macros, volume, soundboard actions, and app-focused presets.**
 
 [Official Website](https://midicommandstudio.com)  
 [Free Download / Gumroad](https://crowtherian.gumroad.com/l/ddscqt)  
@@ -19,7 +19,7 @@ This repository is for **documentation, release notes, screenshots, download lin
 | Platform | Windows only |
 | Product type | Standalone desktop application |
 | Typical hardware | MIDI keyboards, pad controllers, faders, knobs, encoders, control surfaces |
-| Common workflows | Windows shortcuts, macros, app volume control, system volume, soundboard actions, OBS, DaVinci Resolve |
+| Common workflows | Windows shortcuts, macros, app volume control, system volume, soundboard actions, and app-focused presets |
 | Repository scope | Documentation, releases, screenshots, external links, and issue tracking |
 | Source code | Closed-source application; no app source code in this repository |
 | Download | [Free download / Gumroad](https://crowtherian.gumroad.com/l/ddscqt) |
@@ -33,15 +33,15 @@ Typical uses include:
 - Triggering Windows shortcuts from MIDI pads, keys, buttons, or encoders
 - Running macros from MIDI controls
 - Controlling system volume or app-targeted volume from faders and knobs
-- Building OBS MIDI controller workflows for streaming and recording
-- Triggering DaVinci Resolve MIDI shortcuts for repeated editing actions
+- Building app-focused MIDI controller workflows for creative, streaming, editing, and utility software
+- Triggering repeated shortcuts in target applications such as OBS, DaVinci Resolve, browsers, chat apps, editors, and audio tools
 - Using soundboard actions from pads or buttons
 - Switching presets for different applications or hardware setups
 
 ## Who This Is For
 
-- Streamers and creators who want physical controls for OBS, audio, scenes, and repeatable actions
-- Video editors who want MIDI controller shortcuts for DaVinci Resolve or other editing tools
+- Streamers and creators who want physical controls for audio, scenes, playback, and repeatable actions
+- Video editors who want MIDI controller shortcuts for editing tools
 - Musicians who want to reuse MIDI hardware outside a DAW
 - Power users building MIDI controller macros for Windows workflows
 - Users looking for a Stream Deck alternative using MIDI hardware they already own

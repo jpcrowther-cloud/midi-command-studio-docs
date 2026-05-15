@@ -33,7 +33,7 @@ Start with a small preset before building a larger setup:
 
 - One button or pad mapped to a basic Windows shortcut
 - One knob or fader mapped to volume behavior
-- One application-focused mapping for a target app such as OBS or DaVinci Resolve
+- One application-focused mapping for a target app such as a browser, editor, streaming tool, chat app, or audio utility
 - One preset switch test if you plan to use different layouts for different workflows
 
 ## Next Steps

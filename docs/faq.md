@@ -18,7 +18,7 @@ No. MIDI Command Studio is a standalone Windows utility. It is not a VST, instru
 
 ## What can I control with it?
 
-The app is designed for workflows such as Windows shortcuts, macros, app volume control, system volume control, soundboard actions, preset switching, OBS workflows, and DaVinci Resolve shortcut workflows.
+The app is designed for workflows such as Windows shortcuts, macros, app volume control, system volume control, soundboard actions, preset switching, and app-focused shortcuts. Example target applications can include OBS, DaVinci Resolve, browsers, chat tools, editors, media players, and audio utilities.
 
 ## Does it work on macOS or Linux?
 

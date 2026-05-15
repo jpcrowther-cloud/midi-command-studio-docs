@@ -23,23 +23,23 @@ Common examples:
 
 Add a screenshot or GIF here once a current public build is available for capture.
 
-## OBS MIDI Controller Workflow
+## App-Focused MIDI Controller Workflows
 
-MIDI Command Studio can be used to build OBS-focused mappings for streaming and recording workflows.
+MIDI Command Studio can be used to build mappings for a specific target application.
 
 Common examples:
 
-- Switch scenes
-- Toggle mute actions
-- Trigger recording or streaming shortcuts
+- Trigger application shortcuts
+- Toggle mute or playback actions
+- Trigger recording, streaming, editing, or utility commands
 - Run soundboard actions
-- Use separate presets for live, recording, and setup modes
+- Use separate presets for different applications or work modes
 
-Add an OBS walkthrough link here once a public demo is available.
+Example target applications can include OBS, DaVinci Resolve, browsers, chat tools, editors, media players, and audio utilities.
 
-## DaVinci Resolve MIDI Shortcuts
+## Editing And Production Shortcuts
 
-For editing workflows, MIDI controls can be mapped to repeated DaVinci Resolve shortcuts or macros.
+For editing and production workflows, MIDI controls can be mapped to repeated application shortcuts or macros.
 
 Common examples:
 
@@ -47,7 +47,7 @@ Common examples:
 - Cut, trim, marker, and playback commands
 - Presets for edit, color, audio, or review tasks
 
-Add a DaVinci Resolve walkthrough link here once a public demo is available.
+Example target applications can include shortcut-driven editing, review, playback, and production tools.
 
 ## MIDI App Volume Control
 

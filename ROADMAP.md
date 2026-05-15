@@ -8,8 +8,7 @@ This roadmap tracks documentation and release-communication work for MIDI Comman
 - Add quick setup GIF
 - Add volume control GIF
 - Add preset switching GIF
-- Add OBS workflow walkthrough
-- Add DaVinci Resolve workflow walkthrough
+- Add app-focused workflow walkthroughs for common target applications
 - Add X-Touch integration notes after model-specific verification
 - Add tested controller notes with exact device models and app versions
 
