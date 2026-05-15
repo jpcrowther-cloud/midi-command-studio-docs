@@ -48,8 +48,8 @@ Typical uses include:
 
 ## Core Capabilities
 
-- MIDI learn for assigning controls
-- Per-device presets and preset switching
+- Dedicated learn buttons for buttons, faders, knobs, and encoders
+- Preset switching to change configured layouts instantly from the controller itself
 - Windows shortcut triggering
 - Macro execution
 - Global or app-focused mappings
