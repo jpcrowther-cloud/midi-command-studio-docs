@@ -6,7 +6,6 @@ This page documents the public differences between the free version and the full
 
 - [README](../README.md)
 - [Getting Started](getting-started.md)
-- [FAQ](faq.md)
 - [Download](https://crowtherian.gumroad.com/l/ddscqt)
 
 ## Summary

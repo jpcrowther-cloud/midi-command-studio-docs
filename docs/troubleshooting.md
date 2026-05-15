@@ -7,7 +7,6 @@ This page covers common setup checks for MIDI controller shortcuts, macros, volu
 - [README](../README.md)
 - [Getting Started](getting-started.md)
 - [Controller Compatibility](controller-compatibility.md)
-- [FAQ](faq.md)
 - [Support](../SUPPORT.md)
 
 ## MIDI Device Is Not Detected

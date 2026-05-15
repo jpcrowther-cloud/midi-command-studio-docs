@@ -89,7 +89,6 @@ See [Getting Started](docs/getting-started.md) for setup details and first-test 
 - [Getting Started](docs/getting-started.md)
 - [Controller Compatibility](docs/controller-compatibility.md)
 - [Free vs Full](docs/free-vs-full.md)
-- [FAQ](docs/faq.md)
 - [Troubleshooting](docs/troubleshooting.md)
 - [External Resources](docs/external-resources.md)
 - [Data And Privacy](docs/data-and-privacy.md)

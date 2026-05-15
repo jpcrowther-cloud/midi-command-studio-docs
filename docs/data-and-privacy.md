@@ -7,7 +7,6 @@ MIDI Command Studio is a Windows desktop application. This page summarizes the p
 - [README](../README.md)
 - [Support](../SUPPORT.md)
 - [Security Policy](../SECURITY.md)
-- [FAQ](faq.md)
 
 ## Local Presets And Data
 
