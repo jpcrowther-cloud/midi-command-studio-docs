@@ -11,6 +11,7 @@ The application is closed-source. This repository contains documentation, releas
 - Publisher: Meltopia
 - Platform: Windows 10/11
 - Download: [Official download page](https://midicommandstudio.com/download.html)
+- Installer: [MidiCommandStudio_Setup_1.2.0.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.0/MidiCommandStudio_Setup_1.2.0.exe)
 
 ### Highlights
 

@@ -2,8 +2,9 @@
 
 **Control Windows with MIDI hardware: shortcuts, macros, volume, soundboard actions, and app-focused presets.**
 
-[Official Website](https://midicommandstudio.com)  
-[Download](https://midicommandstudio.com/download.html)  
+Website: [midicommandstudio.com](https://midicommandstudio.com/)  
+Download page: [midicommandstudio.com/download.html](https://midicommandstudio.com/download.html)  
+Latest GitHub release: [github.com/jpcrowther-cloud/midi-command-studio/releases/latest](https://github.com/jpcrowther-cloud/midi-command-studio/releases/latest)  
 [Documentation Home](docs/README.md)  
 [Getting Started](docs/getting-started.md)  
 [Release Notes](CHANGELOG.md)
@@ -23,6 +24,7 @@ This repository is for **documentation, release notes, screenshots, download lin
 | Repository scope | Documentation, releases, screenshots, external links, and issue tracking |
 | Source code | Closed-source application; no app source code in this repository |
 | Download | [Official download page](https://midicommandstudio.com/download.html) |
+| Latest GitHub release | [GitHub Releases](https://github.com/jpcrowther-cloud/midi-command-studio/releases/latest) |
 
 ## What It Does
 
@@ -109,6 +111,7 @@ No screenshots or demo videos are linked in this repository yet. Add only curren
 - Official website: [midicommandstudio.com](https://midicommandstudio.com)
 - Download: [midicommandstudio.com/download.html](https://midicommandstudio.com/download.html)
 - Current public version: `1.2.0`
+- Latest GitHub release: [GitHub Releases](https://github.com/jpcrowther-cloud/midi-command-studio/releases/latest)
 - Version history: [CHANGELOG.md](CHANGELOG.md)
 - GitHub Releases: use this repository's Releases page for public version notes if release entries are enabled
 
