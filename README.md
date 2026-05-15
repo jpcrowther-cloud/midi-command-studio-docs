@@ -33,7 +33,8 @@ Typical uses include:
 - Triggering Windows shortcuts from MIDI pads, keys, buttons, or encoders
 - Running macros from MIDI controls
 - Typing text, sending mouse actions, running programs, or opening files from macro steps
-- Controlling system volume, app-targeted volume, or Windows input volume from faders and knobs
+- Controlling Windows volume for individual apps or the main system output
+- Controlling Windows input levels for microphones, aux inputs, and other recording devices
 - Building app-focused MIDI controller workflows for creative, streaming, editing, and utility software
 - Triggering repeated shortcuts in target applications such as OBS, DaVinci Resolve, browsers, chat apps, editors, and audio tools
 - Using soundboard actions from pads or buttons
