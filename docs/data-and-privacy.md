@@ -62,12 +62,6 @@ Presets are saved locally as JSON files under the user's Windows profile:
 
 Each device has its own folder inside the presets directory. These folders can be backed up or copied if you want to preserve or move presets.
 
-## MIDI Data
-
-MIDI input data is used locally for mappings and control detection.
-
-MIDI input data is not transmitted as part of licensing checks or background telemetry.
-
 ## Website Analytics
 
 The official website uses Cloudflare Web Analytics to understand page views, referrers, approximate visitor location, device/browser information, and page performance.
