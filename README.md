@@ -37,7 +37,7 @@ Typical uses include:
 - Controlling Windows input levels for microphones, aux inputs, and other recording devices
 - Building app-focused MIDI controller workflows for creative, streaming, editing, and utility software
 - Triggering repeated shortcuts in media players, video editors, photo editors, browsers, chat apps, audio tools, and other shortcut-driven software
-- Using soundboard actions from pads or buttons
+- Using MIDI device pads or buttons as a simple soundboard or sample player
 - Switching presets for different applications or hardware setups
 
 ## Who This Is For
