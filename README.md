@@ -87,7 +87,6 @@ See [Getting Started](docs/getting-started.md) for setup details and first-test 
 
 - [Documentation Home](docs/README.md)
 - [Getting Started](docs/getting-started.md)
-- [Ideas](docs/ideas.md)
 - [Controllers and MIDI Messages](docs/controllers-and-midi-messages.md)
 - [Free vs Full](docs/free-vs-full.md)
 - [FAQ](docs/faq.md)
