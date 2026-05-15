@@ -48,16 +48,3 @@ HUI is not currently supported. MMC transport data is only minimally supported; 
 ## MIDI Thru
 
 MIDI Thru requires a virtual MIDI port. When enabled, mapped controls trigger MIDI Command Studio actions and unmapped MIDI messages are sent to the virtual MIDI Thru port.
-
-## Compatibility Notes
-
-Do not assume every controller behaves the same way. If you publish controller notes, include:
-
-- Controller make and model
-- MIDI Command Studio version
-- Windows version
-- Connection type
-- Hardware MIDI mode, if relevant
-- Controls tested
-- Feedback behavior, if tested
-- Any setup notes needed for reliable use
