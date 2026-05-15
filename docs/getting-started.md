@@ -57,6 +57,6 @@ For Windows input volume, the mapping controls the Windows recording input level
 
 ## Next Steps
 
-- Review supported workflows: [Supported Use Cases](use-cases.md)
+- Get ideas for what to map next: [Ideas](ideas.md)
 - Confirm controller message behavior: [Controllers and MIDI Messages](controllers-and-midi-messages.md)
 - Solve setup issues: [Troubleshooting](troubleshooting.md)
