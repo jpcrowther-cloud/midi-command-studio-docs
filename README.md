@@ -124,9 +124,7 @@ Suggested release structure:
 
 ## External Mentions And Reviews
 
-No third-party reviews, listings, articles, or YouTube demos are linked yet.
-
-When available, this section can include verified links from sources such as Softpedia, KVR, Rekkerd, and official YouTube demos. Do not add review quotes, ratings, compatibility claims, or publication names unless they link to a real source.
+Verified external resources are listed for reference, including Softpedia, KVR Audio, SaaSHub, and Rekkerd.
 
 See [External Resources](docs/external-resources.md) for the full reference list.
 
