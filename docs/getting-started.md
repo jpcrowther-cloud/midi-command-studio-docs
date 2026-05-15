@@ -38,7 +38,7 @@ Use a MIDI knob or fader for system volume and app-specific volume targets.
 Learn a knob or fader, set it to a volume action, choose either system volume or an app target volume, then save.
 
 1. Add your MIDI device.
-2. Click `Learn Fader/Knob` and move the control you want to use.
+2. Click `Learn Fader/Knob` or `Learn Encoder/Jogwheel` and move the control you want to use.
 3. In the editor, choose a volume mapping type.
 4. Choose `System` for master volume, or choose `App Target` for a specific application.
 5. Save and test by moving the control.
