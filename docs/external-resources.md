@@ -1,8 +1,6 @@
 # External Resources
 
-This page is for verified public resources related to MIDI Command Studio.
-
-Add only links that exist, are relevant, and can be verified.
+This page lists verified public resources related to MIDI Command Studio.
 
 ## Official Links
 
