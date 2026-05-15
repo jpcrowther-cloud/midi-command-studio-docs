@@ -13,7 +13,7 @@ The application is closed-source. These pages document usage, release informatio
 
 ## Reference
 
-- [Controllers and MIDI Messages](controllers-and-midi-messages.md)
+- [Controller Compatibility](controller-compatibility.md)
 - [Free vs Full](free-vs-full.md)
 - [External Resources](external-resources.md)
 - [Release Notes](../CHANGELOG.md)
