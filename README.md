@@ -93,7 +93,6 @@ See [Getting Started](docs/getting-started.md) for setup details and first-test 
 - [Data And Privacy](docs/data-and-privacy.md)
 - [Release Notes](CHANGELOG.md)
 - [Support](SUPPORT.md)
-- [Roadmap](ROADMAP.md)
 - [Security Policy](SECURITY.md)
 - [Notice](NOTICE.md)
 

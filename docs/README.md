@@ -16,7 +16,6 @@ The application is closed-source. These pages document usage, release informatio
 - [External Resources](external-resources.md)
 - [Release Notes](../CHANGELOG.md)
 - [Support](../SUPPORT.md)
-- [Roadmap](../ROADMAP.md)
 - [Security Policy](../SECURITY.md)
 - [Notice](../NOTICE.md)
 
