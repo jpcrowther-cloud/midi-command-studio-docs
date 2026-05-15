@@ -38,7 +38,7 @@ Current documented public version.
 - Added clearer documentation navigation
 - Added sections for screenshots, GIFs, demos, reviews, listings, and external articles
 - Added data and privacy notes based on public help documentation
-- Added support, troubleshooting, external resources, roadmap, and issue template scaffolding
+- Added support, external resources, roadmap, and issue template scaffolding
 - Standardized wording around Windows-only support and closed-source distribution
 
 ## Release Note Maintenance

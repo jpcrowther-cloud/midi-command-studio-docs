@@ -7,7 +7,6 @@ The application is closed-source. These pages document usage, release informatio
 ## Start Here
 
 - [Getting Started](getting-started.md): first setup, learn buttons, and first preset
-- [Troubleshooting](troubleshooting.md): setup and mapping checks
 - [Data And Privacy](data-and-privacy.md): local data, logs, licensing requests, and feedback reports
 
 ## Reference
