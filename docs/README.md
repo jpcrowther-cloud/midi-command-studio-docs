@@ -17,7 +17,6 @@ The application is closed-source. These pages document usage, release informatio
 - [Release Notes](../CHANGELOG.md)
 - [Support](../SUPPORT.md)
 - [Security Policy](../SECURITY.md)
-- [Notice](../NOTICE.md)
 
 ## Media Inventory
 

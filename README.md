@@ -94,7 +94,6 @@ See [Getting Started](docs/getting-started.md) for setup details and first-test 
 - [Release Notes](CHANGELOG.md)
 - [Support](SUPPORT.md)
 - [Security Policy](SECURITY.md)
-- [Notice](NOTICE.md)
 
 ## Screenshots And Demos
 
