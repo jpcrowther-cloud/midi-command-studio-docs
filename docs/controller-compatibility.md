@@ -47,13 +47,15 @@ HUI is not currently supported. MMC transport data is only minimally supported; 
 
 ## Behringer X-Touch Notes
 
-Behringer X-Touch One has a native profile in MIDI Command Studio.
+Behringer X-Touch One has a native profile in MIDI Command Studio and can be used in either `Native` or `MCU` protocol mode.
 
-- Use `Native` protocol when you want to map the X-Touch One controls directly. In Native mode, set the hardware to `MIDI` mode.
-- Use `MCU` protocol when you want Mackie-style channel strip behavior. In MCU mode, set the hardware to `MC Std`.
-- In X-Touch One MCU mode, the CH1-CH8 channel buttons switch which channel strip the fader, pan encoder, Mute, Solo, and Rec controls belong to.
-- This lets one physical fader, one pan encoder, and the Mute/Solo/Rec buttons work across up to 8 channel-specific mappings in the same preset.
-- Use `Single fader` MCU layout. The CH1-CH8 channel buttons are reserved for channel selection and cannot be mapped as normal controls.
+Use `Native` protocol if you want to map the X-Touch One controls directly. In this mode, set the hardware to `MIDI`.
+
+Use `MCU` protocol if you want Mackie-style channel strip behavior. In this mode, set the hardware to `MC Std` and use the `Single fader` MCU layout.
+
+In MCU mode, the CH1-CH8 channel buttons select which channel strip is controlled by the fader, pan encoder, Mute, Solo, and Rec buttons. This lets one physical fader, one pan encoder, and the Mute/Solo/Rec buttons work across up to 8 channel-specific mappings in the same preset.
+
+Because the CH1-CH8 buttons are used for channel selection in `Single fader` MCU layout, they cannot be mapped as normal controls.
 
 For Behringer X-Touch and other 8/9-fader MCU-style surfaces, use MCU mode for LCD and motorized fader feedback, then choose the `Multi fader` MCU layout in device feedback settings.
 
