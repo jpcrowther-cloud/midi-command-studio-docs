@@ -17,24 +17,32 @@ MIDI Command Studio is a Windows utility for mapping MIDI input to shortcuts, ma
 - MIDI controller, keyboard, pad controller, fader bank, knob controller, encoder device, or supported control surface
 - MIDI Command Studio installed from the official download page
 
-## Basic Setup
+## From Install To Your First Mapping
 
-1. Install and launch MIDI Command Studio.
-2. Connect the MIDI device you want to use.
-3. Select the correct MIDI input device.
-4. Use MIDI learn to detect a pad, key, button, knob, fader, or encoder.
-5. Assign the detected MIDI message to a shortcut, macro, volume action, soundboard action, or preset workflow.
-6. Test the mapping in the target application.
-7. Save the preset if the workflow should be reused.
+1. Install MIDI Command Studio and launch it on Windows.
+2. Connect your MIDI controller, then open the app.
+3. In the `Devices` panel, add or select your device and confirm its status is green.
+4. If this is your first setup, keep the default preset selected or click `New` to create a fresh preset.
+5. In the `Mappings` panel, click the `Learn` button that matches the control you want to map.
+6. Use button learn for pads, keys, transport buttons, or other on/off controls.
+7. Use fader/knob learn for sliders or absolute knobs.
+8. Use encoder learn for endless rotary controls.
+9. Press or move the control on your MIDI device. The editor opens automatically after the control is detected.
+10. In the editor, click a shortcut field such as `On`.
+11. Pick a shortcut from the Shortcut Palette, or use `Capture from keyboard` to record your own shortcut.
+12. Optional: configure app targeting.
+13. Use `Global` to send the shortcut to whatever app is active.
+14. Use `Only when app has focus` to limit the mapping to one app.
+15. Use `Force focus then send` to bring the target app forward before sending the shortcut.
+16. Click `Save`.
+17. Test the control in the app you want to control.
 
-## Recommended First Preset
+## Quick Tips
 
-Start with a small preset before building a larger setup:
-
-- One button or pad mapped to a basic Windows shortcut
-- One knob or fader mapped to output or input volume behavior
-- One application-focused mapping for a target app such as a browser, editor, streaming tool, chat app, or audio utility
-- One preset switch test if you plan to use different layouts for different workflows
+- If learn does not detect your control, make sure the device row is selected and connected.
+- If the wrong learn mode was used, delete that mapping and learn it again with the correct control type.
+- If the target app is missing from the app list, open that app first so MIDI Command Studio can see it.
+- Use the `Log` window if you are unsure whether a control is sending button, CC, or encoder-style data.
 
 ## Next Steps
 
