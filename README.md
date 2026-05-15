@@ -75,7 +75,7 @@ MIDI Command Studio is a standalone Windows utility. It is not a VST, instrument
 
 1. Download the current Windows build from the [official download page](https://crowtherian.gumroad.com/l/ddscqt).
 2. Install and launch MIDI Command Studio.
-3. Connect a MIDI device and select it as an input.
+3. Add or select your MIDI device in the `Devices` panel.
 4. Click the learn button that matches the control type, such as button, fader/knob, or encoder/jogwheel.
 5. Assign the MIDI message to a shortcut, macro, volume action, soundboard action, or preset workflow.
 6. Test the mapping in the target application.
