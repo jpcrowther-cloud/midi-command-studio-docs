@@ -8,16 +8,6 @@ Use the contact page for application support, licensing questions, installer iss
 
 Do not post license keys, purchase details, private account information, or sensitive logs in public GitHub issues.
 
-## Documentation Issues
-
-This repository can be used for public documentation issues, such as:
-
-- Broken links
-- Incorrect documentation
-- Missing release-note details
-- Screenshot or GIF updates
-- Verified external resource updates
-
 ## Reporting Application Problems
 
 When reporting an application issue through the contact page or public issue tracker, include:
