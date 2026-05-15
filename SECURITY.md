@@ -1,39 +1,19 @@
 # Security Policy
 
-## Scope
+MIDI Command Studio is a closed-source Windows application. This repository contains public documentation and release information only.
 
-This repository is the public documentation and release-information repository for MIDI Command Studio.
+Please do not report security issues publicly.
 
-The MIDI Command Studio Windows application is closed-source and its source code is not published here. Security reports related to the application, installer, licensing, update process, binaries, or runtime behavior should be sent through the official security or support contact.
+For security concerns related to the app, installer, licensing, downloads, or website, use the contact page:
 
-## Reporting A Security Issue
+[https://midicommandstudio.com/contact.html](https://midicommandstudio.com/contact.html)
 
-Please do not disclose security issues publicly before they have been reviewed.
+When reporting a security issue, include:
 
-Report security concerns to:
-
-- Security contact: [https://midicommandstudio.com/contact.html](https://midicommandstudio.com/contact.html)
-- Product website: [https://midicommandstudio.com](https://midicommandstudio.com)
-
-Include as much of the following as possible:
-
-- Product version, such as `1.2.0`
+- MIDI Command Studio version
 - Windows version and build
-- Installer or download channel used
-- MIDI device model, if relevant
+- Download source or installer used
 - Clear reproduction steps
-- Expected behavior and observed behavior
-- Logs, screenshots, or screen recordings if available
-- Whether the issue affects local use, file handling, device access, licensing, or network-connected behavior
+- Relevant screenshots or logs, if available
 
-## Documentation Issues
-
-Documentation-only issues can be reported through this repository's issue tracker if issue tracking is enabled. Do not include private license keys, purchase details, crash dumps with personal data, or other sensitive information in public issues.
-
-## Response Expectations
-
-Security reports are reviewed through the contact page. Response times may vary depending on report scope, reproducibility, and release impact.
-
-## Safe Harbor
-
-Good-faith security research should avoid privacy violations, service disruption, destructive actions, and access beyond systems or files you are authorized to test.
+Do not include license keys, purchase details, private account information, or sensitive personal information in public GitHub issues.
