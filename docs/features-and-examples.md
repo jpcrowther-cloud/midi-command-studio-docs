@@ -40,13 +40,6 @@ Common examples:
 - Controls that bring a selected app forward before sending a shortcut
 - Separate mappings for media players, editors, browsers, chat apps, audio tools, or other shortcut-driven software
 
-Useful features:
-
-- `Global`
-- `Only when app has focus`
-- `Force focus`
-- Per-app icons in the mappings list
-
 ## Volume Control
 
 Use MIDI faders, knobs, encoders, or jogwheels to control Windows audio levels.
