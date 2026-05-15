@@ -1,34 +1,33 @@
 # Support
 
-## Where To Get Help
+## Product Support
 
-- Website: [https://midicommandstudio.com](https://midicommandstudio.com)
-- Download / purchase page: [https://crowtherian.gumroad.com/l/ddscqt](https://crowtherian.gumroad.com/l/ddscqt)
-- Support contact: [https://midicommandstudio.com/contact.html](https://midicommandstudio.com/contact.html)
+Use the contact page for application support, licensing questions, installer issues, purchase questions, or anything that may include private information:
 
-## What This Repository Handles
+[https://midicommandstudio.com/contact.html](https://midicommandstudio.com/contact.html)
 
-This repository is suitable for:
+Do not post license keys, purchase details, private account information, or sensitive logs in public GitHub issues.
 
-- Documentation fixes
-- Broken documentation links
+## Documentation Issues
+
+This repository can be used for public documentation issues, such as:
+
+- Broken links
+- Incorrect documentation
+- Missing release-note details
 - Screenshot or GIF updates
-- Release-note corrections
-- Verified external resource additions
-- Public issue reports if issue tracking is enabled for that topic
+- Verified external resource updates
 
-## Application Support
+## Reporting Application Problems
 
-For application bugs, licensing questions, installer issues, purchase questions, or private account details, use the [contact page](https://midicommandstudio.com/contact.html) instead of posting sensitive information publicly.
-
-When reporting an application issue, include:
+When reporting an application issue through the contact page or public issue tracker, include:
 
 - MIDI Command Studio version
 - Windows version and build
 - MIDI controller model
-- Relevant preset or workflow type
-- Clear reproduction steps
-- Screenshots, GIFs, or logs if available
+- Workflow type, such as shortcuts, macros, volume, preset switching, feedback, or MIDI Thru
+- Clear steps to reproduce
+- Screenshots, GIFs, or logs if useful and non-sensitive
 
 ## Security Issues
 
