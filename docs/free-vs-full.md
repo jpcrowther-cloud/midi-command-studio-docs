@@ -34,12 +34,6 @@ This page documents the public differences between the free version and the full
 | Presets per device | Up to 2 | Unlimited |
 | Mappings per preset | Up to 6 | Unlimited |
 
-## Notes
-
-- These limits apply to version `1.2.0`.
-- MIDI Thru requires a virtual MIDI port.
-- Download and purchase details are maintained on the [official download page](https://crowtherian.gumroad.com/l/ddscqt).
-
 ## Licensing And Upgrade Details
 
 Download, purchase, license, and upgrade details are maintained on the [official download page](https://crowtherian.gumroad.com/l/ddscqt).
