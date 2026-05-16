@@ -99,14 +99,12 @@ See [Getting Started](docs/getting-started.md) for setup details and first-test 
 
 ## Screenshots And Demos
 
-Product screenshots and GIFs are tracked in the repository so the README and docs can reference stable assets over time.
+Screenshots and GIFs used by the documentation are stored here:
 
 ![MIDI Command Studio main window](assets/screenshots/main-window.png)
 
 - [`assets/screenshots/`](assets/screenshots/)
 - [`assets/gifs/`](assets/gifs/)
-
-Add only current visuals that match the public release.
 
 ## Downloads And Releases
 
