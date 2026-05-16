@@ -101,6 +101,8 @@ See [Getting Started](docs/getting-started.md) for setup details and first-test 
 
 Product screenshots and GIFs are tracked in the repository so the README and docs can reference stable assets over time.
 
+![MIDI Command Studio main window](assets/screenshots/main-window.png)
+
 - [`assets/screenshots/`](assets/screenshots/)
 - [`assets/gifs/`](assets/gifs/)
 

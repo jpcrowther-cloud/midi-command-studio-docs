@@ -59,6 +59,8 @@ Because the CH1-CH8 buttons are used for channel selection in `Single fader` MCU
 
 For Behringer X-Touch and other 8/9-fader MCU-style surfaces, use MCU mode for LCD and motorized fader feedback, then choose the `Multi fader` MCU layout in device feedback settings.
 
+![Device feedback settings](../assets/screenshots/device-feedback-settings.png)
+
 ## MIDI Thru
 
 MIDI Thru requires a virtual MIDI port. When enabled, mapped controls trigger MIDI Command Studio actions and unmapped MIDI messages are sent to the virtual MIDI Thru port.

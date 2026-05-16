@@ -30,6 +30,8 @@ MIDI Command Studio is a Windows utility for mapping MIDI input to shortcuts, ma
 
 For app targeting, the target application must be running and have an open window so MIDI Command Studio can list it.
 
+![Shortcut Palette](../assets/screenshots/shortcut-palette.png)
+
 ## How To Control Windows Volume With A MIDI Controller
 
 Use a MIDI knob or fader for system volume and app-specific volume targets.
@@ -45,6 +47,12 @@ Learn a knob, fader, encoder, or jogwheel, set it to a volume action, choose the
 For `App Target` volume, the target app must be running and producing audio so Windows creates an audio session.
 
 For Windows input volume, the mapping controls the Windows recording input level used by apps that follow Windows input controls. Some ASIO, exclusive-mode, or vendor-specific audio paths can bypass Windows input volume and mute controls.
+
+## Preset Switching Reference
+
+Preset switching is configured from settings when you want a MIDI control to change layouts or cycle through selected presets for a device.
+
+![Preset switching settings](../assets/screenshots/preset-switching-settings.png)
 
 ## Quick Tips
 
