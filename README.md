@@ -1,6 +1,6 @@
 # MIDI Command Studio
 
-**Control Windows with MIDI hardware: shortcuts, macros, volume, soundboard actions, and app-focused presets.**
+MIDI Command Studio is a Windows app for mapping MIDI controllers, MIDI keyboards, pads, knobs, faders, and encoders to shortcuts, macros, app volume, system volume, input volume, soundboard actions, and app-focused presets.
 
 Website: [midicommandstudio.com](https://midicommandstudio.com/)  
 Download page: [midicommandstudio.com/download.html](https://midicommandstudio.com/download.html)  
@@ -9,7 +9,7 @@ Latest GitHub release: [github.com/jpcrowther-cloud/midi-command-studio/releases
 [Getting Started](docs/getting-started.md)  
 [Release Notes](CHANGELOG.md)
 
-MIDI Command Studio is a **Windows-only** desktop application for turning MIDI controllers, MIDI keyboards, pads, knobs, faders, and encoders into practical controls for Windows and creative software.
+MIDI Command Studio is a **Windows-only** desktop application for controlling Windows and creative software with MIDI hardware.
 
 This repository is for **documentation, release notes, screenshots, download links, and issue tracking**. The application is **closed-source / not open source**, and the source code is not published here.
 
@@ -104,21 +104,21 @@ Product screenshots and GIFs are tracked in the repository so the README and doc
 - [`assets/screenshots/`](assets/screenshots/)
 - [`assets/gifs/`](assets/gifs/)
 
-No screenshots or demo videos are linked in this repository yet. Add only current visuals that match the public release.
+Add only current visuals that match the public release.
 
 ## Downloads And Releases
 
 - Official website: [midicommandstudio.com](https://midicommandstudio.com)
 - Download: [midicommandstudio.com/download.html](https://midicommandstudio.com/download.html)
 - Current public version: `1.2.0`
-- Latest GitHub release: [GitHub Releases](https://github.com/jpcrowther-cloud/midi-command-studio/releases/latest)
+- Latest app release: [GitHub Releases](https://github.com/jpcrowther-cloud/midi-command-studio/releases/latest)
 - Version history: [CHANGELOG.md](CHANGELOG.md)
-- GitHub Releases: use this repository's Releases page for public version notes if release entries are enabled
+- This documentation repository does not need separate GitHub releases unless documentation-only release tracking is added later.
 
 Suggested release structure:
 
-- Use GitHub Releases for public version notes and known issues
-- Keep downloads linked through the official website unless distribution policy changes
+- Use the main app release repository for installer releases and release assets
+- Keep downloads linked through the official website and main app release page unless distribution policy changes
 - Mirror user-facing release notes in [CHANGELOG.md](CHANGELOG.md)
 - Include exact version numbers, dates, and Windows compatibility notes when verified
 
