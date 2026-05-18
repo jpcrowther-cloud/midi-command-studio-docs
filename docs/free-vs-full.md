@@ -11,7 +11,7 @@ This page documents the public differences between the free version and the full
 ## Summary
 
 - Product model: free to try, paid/full version available
-- Version documented: `1.2.0`
+- Version documented: `1.2.1`
 - Platform: Windows only
 - Repository scope: documentation, releases, screenshots, and issue tracking
 - Application source code: closed-source / not open source

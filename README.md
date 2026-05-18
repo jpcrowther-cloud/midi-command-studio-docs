@@ -110,7 +110,7 @@ Screenshots and GIFs used by the documentation are stored here:
 
 - Official website: [midicommandstudio.com](https://midicommandstudio.com)
 - Download: [midicommandstudio.com/download.html](https://midicommandstudio.com/download.html)
-- Current public version: `1.2.0`
+- Current public version: `1.2.1`
 - Latest app release: [GitHub Releases](https://github.com/jpcrowther-cloud/midi-command-studio/releases/latest)
 - Version history: [CHANGELOG.md](CHANGELOG.md)
 - This documentation repository does not need separate GitHub releases unless documentation-only release tracking is added later.

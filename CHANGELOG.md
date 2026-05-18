@@ -4,9 +4,22 @@ This changelog tracks public MIDI Command Studio release notes.
 
 The application is closed-source. This repository contains documentation, release notes, screenshots, download links, and issue-tracking guidance.
 
-## 1.2.0
+## 1.2.1
 
 - Current public version.
+- Installer: `MidiCommandStudio_Setup_1.2.1.exe`
+- Publisher: Meltopia
+- Platform: Windows 10/11
+- Download: [Official download page](https://midicommandstudio.com/download.html)
+
+### Highlights
+
+- Improved app shutdown stability, including close, quit, and tray-exit cleanup behavior.
+- Simplified the update flow so the app opens a dedicated website update page for direct downloads.
+
+## 1.2.0
+
+- Previous public version.
 - Installer: `MidiCommandStudio_Setup_1.2.0.exe`
 - Publisher: Meltopia
 - Platform: Windows 10/11
