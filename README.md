@@ -113,14 +113,6 @@ Screenshots and GIFs used by the documentation are stored here:
 - Current public version: `1.2.1`
 - Latest app release: [GitHub Releases](https://github.com/jpcrowther-cloud/midi-command-studio/releases/latest)
 - Version history: [CHANGELOG.md](CHANGELOG.md)
-- This documentation repository does not need separate GitHub releases unless documentation-only release tracking is added later.
-
-Suggested release structure:
-
-- Use the main app release repository for installer releases and release assets
-- Keep downloads linked through the official website and main app release page unless distribution policy changes
-- Mirror user-facing release notes in [CHANGELOG.md](CHANGELOG.md)
-- Include exact version numbers, dates, and Windows compatibility notes when verified
 
 ## External Mentions And Reviews
 
