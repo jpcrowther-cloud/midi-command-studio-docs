@@ -2,12 +2,12 @@
 
 MIDI Command Studio is a Windows app for mapping MIDI controllers, MIDI keyboards, pads, knobs, faders, and encoders to shortcuts, macros, app volume, system volume, input volume, soundboard actions, and app-focused presets.
 
-Website: [midicommandstudio.com](https://midicommandstudio.com/)  
-Download page: [midicommandstudio.com/download.html](https://midicommandstudio.com/download.html)  
-Current installer: [MidiCommandStudio_Setup_1.2.2.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.2/MidiCommandStudio_Setup_1.2.2.exe)
-[Documentation Home](docs/README.md)  
-[Getting Started](docs/getting-started.md)  
-[Release Notes](CHANGELOG.md)
+- Website: [midicommandstudio.com](https://midicommandstudio.com/)
+- Download installer: [MidiCommandStudio_Setup_1.2.2.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.2/MidiCommandStudio_Setup_1.2.2.exe)
+- Licence and purchase details: [midicommandstudio.com/download.html](https://midicommandstudio.com/download.html)
+- [Documentation Home](docs/README.md)
+- [Getting Started](docs/getting-started.md)
+- [Release Notes](CHANGELOG.md)
 
 MIDI Command Studio is a **Windows-only** desktop application for controlling Windows and creative software with MIDI hardware.
 
@@ -23,8 +23,8 @@ This repository is for **documentation, release notes, screenshots, download lin
 | Common workflows | Windows shortcuts, macros, app volume control, Windows input volume control, system volume, soundboard actions, and app-focused presets |
 | Repository scope | Documentation, releases, screenshots, external links, and issue tracking |
 | Source code | Closed-source application; no app source code in this repository |
-| Download | [Official download page](https://midicommandstudio.com/download.html) |
-| Current installer | [MidiCommandStudio_Setup_1.2.2.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.2/MidiCommandStudio_Setup_1.2.2.exe) |
+| Download installer | [MidiCommandStudio_Setup_1.2.2.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.2/MidiCommandStudio_Setup_1.2.2.exe) |
+| Licence and purchase details | [Official website](https://midicommandstudio.com/download.html) |
 
 ## What It Does
 
@@ -76,7 +76,7 @@ MIDI Command Studio is a standalone Windows utility. It is not a VST, instrument
 
 ## Quick Start
 
-1. Download the current Windows build from the [official download page](https://midicommandstudio.com/download.html).
+1. Download the current Windows installer from GitHub: [MidiCommandStudio_Setup_1.2.2.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.2/MidiCommandStudio_Setup_1.2.2.exe).
 2. Install and launch MIDI Command Studio.
 3. Add or select your MIDI device in the `Devices` panel.
 4. Click the learn button that matches the control type, such as button, fader/knob, or encoder/jogwheel.
@@ -109,9 +109,9 @@ Screenshots and GIFs used by the documentation are stored here:
 ## Downloads And Releases
 
 - Official website: [midicommandstudio.com](https://midicommandstudio.com)
-- Download: [midicommandstudio.com/download.html](https://midicommandstudio.com/download.html)
 - Current public version: `1.2.2`
-- Current installer: [MidiCommandStudio_Setup_1.2.2.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.2/MidiCommandStudio_Setup_1.2.2.exe)
+- Download installer: [MidiCommandStudio_Setup_1.2.2.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.2/MidiCommandStudio_Setup_1.2.2.exe)
+- Licence and purchase details: [midicommandstudio.com/download.html](https://midicommandstudio.com/download.html)
 - Version history: [CHANGELOG.md](CHANGELOG.md)
 
 ## External Mentions And Reviews
@@ -124,7 +124,7 @@ See [External Resources](docs/external-resources.md) for the full reference list
 
 - Product support: [Contact page](https://midicommandstudio.com/contact.html)
 - Website: [midicommandstudio.com](https://midicommandstudio.com)
-- Download / purchase page: [Download page](https://midicommandstudio.com/download.html)
+- Licence and purchase details: [Download page](https://midicommandstudio.com/download.html)
 - Documentation issues: use this repository's issue tracker if enabled
 - Application bugs: use the [contact page](https://midicommandstudio.com/contact.html) or the app bug report template if issue tracking is enabled
 

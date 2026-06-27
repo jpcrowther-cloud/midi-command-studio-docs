@@ -6,7 +6,8 @@ This page documents the public differences between the free version and the full
 
 - [README](../README.md)
 - [Getting Started](getting-started.md)
-- [Download](https://midicommandstudio.com/download.html)
+- [Download installer](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.2/MidiCommandStudio_Setup_1.2.2.exe)
+- [Licence and purchase details](https://midicommandstudio.com/download.html)
 
 ## Summary
 
@@ -35,6 +36,6 @@ This page documents the public differences between the free version and the full
 
 ## Licensing And Upgrade Details
 
-Download, purchase, license, and upgrade details are maintained on the [official download page](https://midicommandstudio.com/download.html).
+Download the installer from GitHub. Purchase, license, and upgrade details are maintained on the [official website](https://midicommandstudio.com/download.html).
 
 Activation requires an internet connection. A license allows up to 2 activations.

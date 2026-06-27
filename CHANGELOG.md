@@ -11,8 +11,7 @@ The application is closed-source. This repository contains documentation, releas
 - Installer: `MidiCommandStudio_Setup_1.2.2.exe`
 - Publisher: Meltopia
 - Platform: Windows 10/11
-- Download: [Official download page](https://midicommandstudio.com/download.html)
-- Installer: [MidiCommandStudio_Setup_1.2.2.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.2/MidiCommandStudio_Setup_1.2.2.exe)
+- Download installer: [MidiCommandStudio_Setup_1.2.2.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.2/MidiCommandStudio_Setup_1.2.2.exe)
 
 ### Highlights
 
@@ -30,7 +29,7 @@ The application is closed-source. This repository contains documentation, releas
 - Installer: `MidiCommandStudio_Setup_1.2.1.exe`
 - Publisher: Meltopia
 - Platform: Windows 10/11
-- Download: [Official download page](https://midicommandstudio.com/download.html)
+- Download installer: [MidiCommandStudio_Setup_1.2.1.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.1/MidiCommandStudio_Setup_1.2.1.exe)
 
 ### Highlights
 
@@ -43,8 +42,7 @@ The application is closed-source. This repository contains documentation, releas
 - Installer: `MidiCommandStudio_Setup_1.2.0.exe`
 - Publisher: Meltopia
 - Platform: Windows 10/11
-- Download: [Official download page](https://midicommandstudio.com/download.html)
-- Installer: [MidiCommandStudio_Setup_1.2.0.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.0/MidiCommandStudio_Setup_1.2.0.exe)
+- Download installer: [MidiCommandStudio_Setup_1.2.0.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.0/MidiCommandStudio_Setup_1.2.0.exe)
 
 ### Highlights
 
