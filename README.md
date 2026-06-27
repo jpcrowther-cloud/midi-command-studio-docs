@@ -4,7 +4,7 @@ MIDI Command Studio is a Windows app for mapping MIDI controllers, MIDI keyboard
 
 Website: [midicommandstudio.com](https://midicommandstudio.com/)  
 Download page: [midicommandstudio.com/download.html](https://midicommandstudio.com/download.html)  
-Latest GitHub release: [github.com/jpcrowther-cloud/midi-command-studio/releases/latest](https://github.com/jpcrowther-cloud/midi-command-studio/releases/latest)  
+Current installer: [MidiCommandStudio_Setup_1.2.2.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.2/MidiCommandStudio_Setup_1.2.2.exe)
 [Documentation Home](docs/README.md)  
 [Getting Started](docs/getting-started.md)  
 [Release Notes](CHANGELOG.md)
@@ -24,7 +24,7 @@ This repository is for **documentation, release notes, screenshots, download lin
 | Repository scope | Documentation, releases, screenshots, external links, and issue tracking |
 | Source code | Closed-source application; no app source code in this repository |
 | Download | [Official download page](https://midicommandstudio.com/download.html) |
-| Latest GitHub release | [GitHub Releases](https://github.com/jpcrowther-cloud/midi-command-studio/releases/latest) |
+| Current installer | [MidiCommandStudio_Setup_1.2.2.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.2/MidiCommandStudio_Setup_1.2.2.exe) |
 
 ## What It Does
 
@@ -110,8 +110,8 @@ Screenshots and GIFs used by the documentation are stored here:
 
 - Official website: [midicommandstudio.com](https://midicommandstudio.com)
 - Download: [midicommandstudio.com/download.html](https://midicommandstudio.com/download.html)
-- Current public version: `1.2.1`
-- Latest app release: [GitHub Releases](https://github.com/jpcrowther-cloud/midi-command-studio/releases/latest)
+- Current public version: `1.2.2`
+- Current installer: [MidiCommandStudio_Setup_1.2.2.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.2/MidiCommandStudio_Setup_1.2.2.exe)
 - Version history: [CHANGELOG.md](CHANGELOG.md)
 
 ## External Mentions And Reviews

@@ -4,9 +4,29 @@ This changelog tracks public MIDI Command Studio release notes.
 
 The application is closed-source. This repository contains documentation, release notes, screenshots, download links, and issue-tracking guidance.
 
-## 1.2.1
+## 1.2.2
 
 - Current public version.
+- Release date: 19 June 2026
+- Installer: `MidiCommandStudio_Setup_1.2.2.exe`
+- Publisher: Meltopia
+- Platform: Windows 10/11
+- Download: [Official download page](https://midicommandstudio.com/download.html)
+- Installer: [MidiCommandStudio_Setup_1.2.2.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.2/MidiCommandStudio_Setup_1.2.2.exe)
+
+### Highlights
+
+- Added an `Open Windows shortcut (.lnk)` macro step.
+- Improved mouse-position capture with immediate keyboard capture and no countdown.
+- Improved installer handling when MIDI Command Studio is still running in the system tray.
+- Improved uninstall options for retaining presets, settings, shortcut lists, and licence data.
+- Simplified diagnostics, log, and licence controls in Settings.
+- Reduced false diagnostic reports during application startup.
+- General stability and usability improvements.
+
+## 1.2.1
+
+- Previous public version.
 - Installer: `MidiCommandStudio_Setup_1.2.1.exe`
 - Publisher: Meltopia
 - Platform: Windows 10/11

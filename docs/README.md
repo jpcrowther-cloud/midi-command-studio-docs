@@ -25,4 +25,4 @@ Screenshots and GIFs should be added under:
 - [`../assets/screenshots/`](../assets/screenshots/)
 - [`../assets/gifs/`](../assets/gifs/)
 
-No repository-hosted screenshots or GIFs are linked yet. Add visuals only when they match the current public release.
+Repository screenshots are linked from the README and selected docs pages. Add or update visuals only when they match the current public release.
