@@ -13,6 +13,8 @@ MIDI Command Studio is a **Windows-only** desktop application for controlling Wi
 
 This repository is for **documentation, release notes, screenshots, download links, and issue tracking**. The application is **closed-source / not open source**, and the source code is not published here.
 
+![MIDI Command Studio main window](assets/screenshots/main-window.png)
+
 ## At A Glance
 
 | Area | Details |
@@ -100,8 +102,6 @@ See [Getting Started](docs/getting-started.md) for setup details and first-test 
 ## Screenshots And Demos
 
 Screenshots and GIFs used by the documentation are stored here:
-
-![MIDI Command Studio main window](assets/screenshots/main-window.png)
 
 - [`assets/screenshots/`](assets/screenshots/)
 - [`assets/gifs/`](assets/gifs/)
