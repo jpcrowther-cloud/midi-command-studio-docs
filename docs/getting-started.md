@@ -5,7 +5,7 @@ MIDI Command Studio is a Windows utility for mapping MIDI input to shortcuts, ma
 ## Quick Links
 
 - [README](../README.md)
-- [Download installer](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.2/MidiCommandStudio_Setup_1.2.2.exe)
+- [Download installer](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.3/MidiCommandStudio_Setup_1.2.3.exe)
 - [Website](https://midicommandstudio.com)
 
 ## Requirements
