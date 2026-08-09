@@ -4,9 +4,26 @@ This changelog tracks public MIDI Command Studio release notes.
 
 The application is closed-source. This repository contains documentation, release notes, screenshots, download links, and issue-tracking guidance.
 
-## 1.2.3
+## 1.2.4
 
 - Current public version.
+- Release date: 10 August 2026
+- Installer: `MidiCommandStudio_Setup_1.2.4.exe`
+- Publisher: Meltopia
+- Platform: Windows 10/11
+- Download installer: [MidiCommandStudio_Setup_1.2.4.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.4/MidiCommandStudio_Setup_1.2.4.exe)
+
+### Highlights
+
+- Improved startup reliability with safer Windows audio initialisation and recovery when audio services are not immediately ready.
+- Expanded the built-in shortcut library with categorised lists for many more creative, productivity, browser, media, and Windows applications.
+- Added separate **App Managed** and **User Managed** shortcut-list folders, preserving copied, edited, or manually downloaded lists across app updates.
+- Improved shortcut-list migration and update recovery, with user-managed lists able to override matching official categories.
+- Improved app volume and mute control for applications that create multiple Windows audio sessions.
+
+## 1.2.3
+
+- Previous public version.
 - Release date: 23 July 2026
 - Installer: `MidiCommandStudio_Setup_1.2.3.exe`
 - Publisher: Meltopia

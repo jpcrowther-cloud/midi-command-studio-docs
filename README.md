@@ -3,7 +3,7 @@
 MIDI Command Studio is a Windows app for mapping MIDI controllers, MIDI keyboards, pads, knobs, faders, and encoders to shortcuts, macros, app volume, system volume, input volume, soundboard actions, and app-focused presets.
 
 - Website: [midicommandstudio.com](https://midicommandstudio.com/)
-- Download installer: [MidiCommandStudio_Setup_1.2.3.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.3/MidiCommandStudio_Setup_1.2.3.exe)
+- Download installer: [MidiCommandStudio_Setup_1.2.4.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.4/MidiCommandStudio_Setup_1.2.4.exe)
 - Licence and purchase details: [midicommandstudio.com/download.html](https://midicommandstudio.com/download.html)
 - [Documentation Home](docs/README.md)
 - [Getting Started](docs/getting-started.md)
@@ -25,7 +25,7 @@ This repository is for **documentation, release notes, screenshots, download lin
 | Common workflows | Windows shortcuts, macros, app volume control, Windows input volume control, system volume, soundboard actions, and app-focused presets |
 | Repository scope | Documentation, releases, screenshots, external links, and issue tracking |
 | Source code | Closed-source application; no app source code in this repository |
-| Download installer | [MidiCommandStudio_Setup_1.2.3.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.3/MidiCommandStudio_Setup_1.2.3.exe) |
+| Download installer | [MidiCommandStudio_Setup_1.2.4.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.4/MidiCommandStudio_Setup_1.2.4.exe) |
 | Licence and purchase details | [Official website](https://midicommandstudio.com/download.html) |
 
 ## What It Does
@@ -78,7 +78,7 @@ MIDI Command Studio is a standalone Windows utility. It is not a VST, instrument
 
 ## Quick Start
 
-1. Download the current Windows installer from GitHub: [MidiCommandStudio_Setup_1.2.3.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.3/MidiCommandStudio_Setup_1.2.3.exe).
+1. Download the current Windows installer from GitHub: [MidiCommandStudio_Setup_1.2.4.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.4/MidiCommandStudio_Setup_1.2.4.exe).
 2. Install and launch MIDI Command Studio.
 3. Add or select your MIDI device in the `Devices` panel.
 4. Click the learn button that matches the control type, such as button, fader/knob, or encoder/jogwheel.
@@ -109,8 +109,8 @@ Screenshots and GIFs used by the documentation are stored here:
 ## Downloads And Releases
 
 - Official website: [midicommandstudio.com](https://midicommandstudio.com)
-- Current public version: `1.2.3`
-- Download installer: [MidiCommandStudio_Setup_1.2.3.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.3/MidiCommandStudio_Setup_1.2.3.exe)
+- Current public version: `1.2.4`
+- Download installer: [MidiCommandStudio_Setup_1.2.4.exe](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.4/MidiCommandStudio_Setup_1.2.4.exe)
 - Licence and purchase details: [midicommandstudio.com/download.html](https://midicommandstudio.com/download.html)
 - Version history: [CHANGELOG.md](CHANGELOG.md)
 

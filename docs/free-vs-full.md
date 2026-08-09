@@ -6,13 +6,13 @@ This page documents the public differences between the free version and the full
 
 - [README](../README.md)
 - [Getting Started](getting-started.md)
-- [Download installer](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.3/MidiCommandStudio_Setup_1.2.3.exe)
+- [Download installer](https://github.com/jpcrowther-cloud/midi-command-studio/releases/download/v1.2.4/MidiCommandStudio_Setup_1.2.4.exe)
 - [Licence and purchase details](https://midicommandstudio.com/download.html)
 
 ## Summary
 
 - Product model: free to try, paid/full version available
-- Version documented: `1.2.3`
+- Version documented: `1.2.4`
 - Platform: Windows only
 - Repository scope: documentation, releases, screenshots, and issue tracking
 - Application source code: closed-source / not open source
